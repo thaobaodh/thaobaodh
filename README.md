@@ -67,7 +67,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/thaopir" target="blank">
+  <a href="https://www.facebook.com/ZensDev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Zens-facebook" />
   </a>
   <a href="#" target="blank">
@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/thao-nguy%E1%BB%85n-duy-928755229/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Zens-linkedin" />
   </a>
-  <a href="https://www.instagram.com/____thao____/" target="blank">
+  <a href="https://www.instagram.com/_thao_is_me_/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Zens-instagram" />
   </a>
   <a href="mailto:thaobaodh@gmail.com" target="top">
